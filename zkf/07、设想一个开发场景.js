@@ -10,3 +10,7 @@
 
 
 // push 和 pull
+
+function sayHello() {
+  console.log("hello")
+}
