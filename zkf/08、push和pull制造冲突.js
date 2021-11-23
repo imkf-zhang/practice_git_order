@@ -4,4 +4,5 @@
 //  然后在本地创建了08文件  进行一个提交
 function name(params) {
     console.log(params)
+    console.log(params)
 }
